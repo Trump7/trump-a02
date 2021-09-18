@@ -1,0 +1,15 @@
+
+R
+java:S1854"7Remove this useless assignment to local variable "BAC".(ƒž¾„ýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Å®ñÀ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(ó¶¢Ãýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Þ±ðŒÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.( û÷œÿÿÿÿÿ
+<
+java:S1110"!Remove these useless parentheses.(À†ÜÝúÿÿÿÿ
+C
+java:S1110"!Remove these useless parentheses.(›¼ðéûÿÿÿÿ8Ñû÷Õ¿/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(þ¼ó
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¡é²ïüÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒž¾„ýÿÿÿÿ
