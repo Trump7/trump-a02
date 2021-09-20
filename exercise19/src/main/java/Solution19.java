@@ -1,3 +1,13 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 2 Solution
+ *  Copyright 2021 Matthew Trump
+ *  Pseudocode:
+ *  This program will ask the user for their weight in pounds and their height in inches.
+ *  It will then calculate their BMI.  Then the program determines whether the user is
+ *  underweight, overweight, or ideal.  Finally, the program prints that information and their
+ *  BMI.
+ */
+
 import java.util.Scanner;
 
 public class Solution19 {
