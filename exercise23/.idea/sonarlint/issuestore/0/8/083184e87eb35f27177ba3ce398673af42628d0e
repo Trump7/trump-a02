@@ -1,0 +1,24 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(Çµí‘
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(¨ÿèúúÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ïÿ‘.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ëÄ€ÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¯§åû
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‚‡»æÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÏŒÜÐøÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(“‹Èúúÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(©ûÃ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(Ä½³ñûÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(¤çæŸùÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(Ô½’ü
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(´¯º²þÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(„ýÓÍþÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(‚‡»æÿÿÿÿÿ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(åÆõ”
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(‚‡»æÿÿÿÿÿ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(‚‡»æÿÿÿÿÿ
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(‚‡»æÿÿÿÿÿ8×Áö€À/
+u
+java:S1192"ZDefine a constant instead of duplicating this literal "Invalid Character Entered" 5 times.(‚‡»æÿÿÿÿÿ
