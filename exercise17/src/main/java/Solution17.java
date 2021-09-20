@@ -1,3 +1,13 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 2 Solution
+ *  Copyright 2021 Matthew Trump
+ *  Pseudocode:
+ *  This program asks the user whether they are male or female, the amount of alcohol
+ *  theyve had to drink, their total weight in pounds, and how much time has passed since their
+ *  last drink.  From that information it calculates what their BAC level is and displays
+ *  their BAC level and whether they are legal to drive or not.
+ */
+
 import java.util.Scanner;
 
 public class Solution17 {

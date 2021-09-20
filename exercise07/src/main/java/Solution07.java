@@ -1,3 +1,11 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 2 Solution
+ *  Copyright 2021 Matthew Trump
+ *  Pseudocode:
+ *  This program will take in the length and width of a room from the user.
+ *  Then it will calculate the area in feet and meters and print them for the user.
+ */
+
 import java.util.Scanner;
 
 public class Solution07 {

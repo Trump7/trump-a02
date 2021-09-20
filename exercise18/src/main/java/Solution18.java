@@ -1,3 +1,13 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 2 Solution
+ *  Copyright 2021 Matthew Trump
+ *  Pseudocode:
+ *  This program asks the user whether they are converting F to C or C to F.
+ *  Then the user can enter the amount of degrees.  The program then converts the temperature
+ *  and displays the converted teperature.  If neither option is selected, the program tells
+ *  the user they entered an invalid character.
+ */
+
 import java.util.Scanner;
 
 public class Solution18 {

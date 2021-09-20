@@ -1,3 +1,12 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 2 Solution
+ *  Copyright 2021 Matthew Trump
+ *  Pseudocode:
+ *  This program takes in the pricipal, rate of interest, and the number of years from a user.
+ *  It then calculates how much money will be made over that amount of time and adds it to
+ *  the original investment.  Finally it displays the amount to the user.
+ */
+
 import java.util.Scanner;
 
 public class Solution12 {

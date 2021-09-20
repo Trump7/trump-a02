@@ -1,3 +1,12 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 2 Solution
+ *  Copyright 2021 Matthew Trump
+ *  Pseudocode:
+ *  This program will take in how many people, pizzas, and slices of pizzas are present.
+ *  It will then calculate how many slices of pizza each person will get.
+ *  After that it tells the user the calculated amount.
+ */
+
 import java.util.Scanner;
 
 public class Solution08 {

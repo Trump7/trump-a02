@@ -1,3 +1,12 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 2 Solution
+ *  Copyright 2021 Matthew Trump
+ *  Pseudocode:
+ *  This program asks the user how many Euros and the exchange rate for Euros to US dollars.
+ *  It then does all the calculations and displays how many US dollars the user would recieve
+ *  for X ammount of Euros
+ */
+
 import java.util.Scanner;
 
 public class Solution11 {

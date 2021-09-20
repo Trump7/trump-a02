@@ -1,3 +1,13 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 2 Solution
+ *  Copyright 2021 Matthew Trump
+ *  Pseudocode:
+ *  This program walks the user through diagnossing their car problems.  It will ask a series of
+ *  if else statements to determine the problem with the car.  If the user enters anything other
+ *  than Y, y, N, or n then it will tell the user they entered an invalid character and
+ *  proceed to stop the program, or exit out.
+ */
+
 import java.util.Scanner;
 
 import static java.lang.System.exit;

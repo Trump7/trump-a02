@@ -1,3 +1,11 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 2 Solution
+ *  Copyright 2021 Matthew Trump
+ *  Pseudocode:
+ *  This program will take in the current age of the user and the age they would like to retire at.
+ *  Then it will subtract the two and tell the user how many years until they can retire.
+ *  It also tells the user what year they can retire, given that it's 2021.
+ */
 import java.util.Scanner;
 
 public class Solution06 {

@@ -1,3 +1,12 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 2 Solution
+ *  Copyright 2021 Matthew Trump
+ *  Pseudocode:
+ *  This program takes in the principal, the rate, the number of years, and the times its compounded per year.
+ *  It then calculates how much money will be made from that investment and adds it to the original investment.
+ *  Finally, it prints the total money made from the compounded interest.
+ */
+
 import java.util.Scanner;
 
 public class Solution13 {

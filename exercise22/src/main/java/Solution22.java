@@ -1,3 +1,12 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 2 Solution
+ *  Copyright 2021 Matthew Trump
+ *  Pseudocode:
+ *  This program takes in three numbers from the user.  It then checks to see if all the numbers are different.
+ *  If they are not it will end the program, but if they are it will determine which number is largest
+ *  using if else statements.  The program will then display the biggest number out of the three.
+ */
+
 import java.util.Scanner;
 import static java.lang.System.exit;
 

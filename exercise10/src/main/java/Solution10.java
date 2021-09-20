@@ -1,3 +1,12 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 2 Solution
+ *  Copyright 2021 Matthew Trump
+ *  Pseudocode:
+ *  This program will take in the price and quantity of three items from the user.
+ *  The program will then calculate the total price for all items, the tax for all the items,
+ *  and finally display the total to the user.
+ */
+
 import java.util.Scanner;
 
 public class Solution10 {
